@@ -1,3 +1,5 @@
 numpy
 matplotlib
 pandas
+lmfit
+scikit-learn
